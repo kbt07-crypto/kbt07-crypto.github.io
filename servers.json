@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "WBFAnisette",
+            "address": "https://anisette-v3-server-6mfe.onrender.com"
+        }
+    ]
+}
